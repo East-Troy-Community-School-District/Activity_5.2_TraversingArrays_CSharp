@@ -1,0 +1,6 @@
+\\et-fileserver\staff\pawnol\Desktop\SortScores\bin\Debug\SortScores.exe.config
+\\et-fileserver\staff\pawnol\Desktop\SortScores\bin\Debug\SortScores.exe
+\\et-fileserver\staff\pawnol\Desktop\SortScores\bin\Debug\SortScores.pdb
+\\et-fileserver\staff\pawnol\Desktop\SortScores\obj\Debug\SortScores.csproj.CoreCompileInputs.cache
+\\et-fileserver\staff\pawnol\Desktop\SortScores\obj\Debug\SortScores.exe
+\\et-fileserver\staff\pawnol\Desktop\SortScores\obj\Debug\SortScores.pdb
