@@ -1,0 +1,6 @@
+\\et-fileserver\staff\pawnol\Desktop\ReverseTraversal\bin\Debug\ReverseTraversal.exe.config
+\\et-fileserver\staff\pawnol\Desktop\ReverseTraversal\bin\Debug\ReverseTraversal.exe
+\\et-fileserver\staff\pawnol\Desktop\ReverseTraversal\bin\Debug\ReverseTraversal.pdb
+\\et-fileserver\staff\pawnol\Desktop\ReverseTraversal\obj\Debug\ReverseTraversal.csproj.CoreCompileInputs.cache
+\\et-fileserver\staff\pawnol\Desktop\ReverseTraversal\obj\Debug\ReverseTraversal.exe
+\\et-fileserver\staff\pawnol\Desktop\ReverseTraversal\obj\Debug\ReverseTraversal.pdb

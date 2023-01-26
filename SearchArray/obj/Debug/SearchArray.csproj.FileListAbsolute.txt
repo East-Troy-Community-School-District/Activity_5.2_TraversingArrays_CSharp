@@ -1,0 +1,6 @@
+\\et-fileserver\staff\pawnol\Desktop\SearchArray\bin\Debug\SearchArray.exe.config
+\\et-fileserver\staff\pawnol\Desktop\SearchArray\bin\Debug\SearchArray.exe
+\\et-fileserver\staff\pawnol\Desktop\SearchArray\bin\Debug\SearchArray.pdb
+\\et-fileserver\staff\pawnol\Desktop\SearchArray\obj\Debug\SearchArray.csproj.CoreCompileInputs.cache
+\\et-fileserver\staff\pawnol\Desktop\SearchArray\obj\Debug\SearchArray.exe
+\\et-fileserver\staff\pawnol\Desktop\SearchArray\obj\Debug\SearchArray.pdb
