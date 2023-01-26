@@ -1,0 +1,6 @@
+\\et-fileserver\staff\pawnol\Desktop\PopulateArray\bin\Debug\PopulateArray.exe.config
+\\et-fileserver\staff\pawnol\Desktop\PopulateArray\bin\Debug\PopulateArray.exe
+\\et-fileserver\staff\pawnol\Desktop\PopulateArray\bin\Debug\PopulateArray.pdb
+\\et-fileserver\staff\pawnol\Desktop\PopulateArray\obj\Debug\PopulateArray.csproj.CoreCompileInputs.cache
+\\et-fileserver\staff\pawnol\Desktop\PopulateArray\obj\Debug\PopulateArray.exe
+\\et-fileserver\staff\pawnol\Desktop\PopulateArray\obj\Debug\PopulateArray.pdb

@@ -1,0 +1,7 @@
+\\et-fileserver\staff\pawnol\Desktop\PrintArray\bin\Debug\PrintArray.exe.config
+\\et-fileserver\staff\pawnol\Desktop\PrintArray\bin\Debug\PrintArray.exe
+\\et-fileserver\staff\pawnol\Desktop\PrintArray\bin\Debug\PrintArray.pdb
+\\et-fileserver\staff\pawnol\Desktop\PrintArray\obj\Debug\PrintArray.csproj.AssemblyReference.cache
+\\et-fileserver\staff\pawnol\Desktop\PrintArray\obj\Debug\PrintArray.csproj.CoreCompileInputs.cache
+\\et-fileserver\staff\pawnol\Desktop\PrintArray\obj\Debug\PrintArray.exe
+\\et-fileserver\staff\pawnol\Desktop\PrintArray\obj\Debug\PrintArray.pdb
