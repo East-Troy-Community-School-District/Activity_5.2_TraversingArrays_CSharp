@@ -1,7 +1,8 @@
 ﻿/*
  * Sort Scores
- * 1/26/2023
- * C#.NET I
+ * Pawelski
+ * 10/15/2023
+ * Developing Desktop Applications
  * 
  * Instructions:
  * Run the program and observe the output. In your own
