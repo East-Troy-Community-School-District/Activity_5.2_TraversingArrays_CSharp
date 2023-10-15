@@ -1,7 +1,8 @@
 ﻿/*
  * Modify with Foreach
- * 1/26/2023
- * C#.NET I
+ * Pawelski
+ * 10/15/2023
+ * Developing Desktop Applications
  * 
  * Instructions:
  * Try running the program. You should notice that
